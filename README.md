@@ -6,12 +6,6 @@
 ---
 
 ````md
-# 📊 Telecom Customer Profitability Dashboard
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20Processing-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
