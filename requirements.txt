@@ -1,0 +1,6 @@
+pandas==2.2.3
+mysql-connector-python==9.0.0
+SQLAlchemy==2.0.36
+numpy==2.1.2
+python-dotenv==1.0.1   # To securely load DB credentials from .env file
+openpyxl==3.1.5        # If you handle Excel input/output in future steps
