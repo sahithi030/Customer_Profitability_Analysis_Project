@@ -119,7 +119,7 @@ Telecom_Customer_Profitability/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/telecom-profitability-dashboard.git
+git clone [https://github.com/yourusername/telecom-profitability-dashboard.git](https://github.com/sahithi030/Customer_Profitability_Analysis_Project)
 cd telecom-profitability-dashboard
 ```
 
